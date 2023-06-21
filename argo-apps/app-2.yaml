@@ -12,5 +12,5 @@ spec:
   project: default
   source: 
     path: my-apps/app-2
-    repoURL: "https://github.com/iamsamitdev/argocd-app-of-apps.git"
+    repoURL: "https://github.com/papadat/argocd-app-of-apps.git"
     targetRevision: main
